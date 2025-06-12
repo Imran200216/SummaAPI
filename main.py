@@ -23,7 +23,10 @@ from developer_funny_roasts.developer_funny_roasts import (
 )
 
 
-app = FastAPI(title="SummaAPI 👽💥")
+app = FastAPI(
+    title="SummaAPI 👽💥",
+    description="Let’s keep SummaAPI not just summa, but semma! 😄🔥💡"
+)
 
 
 # Routers
