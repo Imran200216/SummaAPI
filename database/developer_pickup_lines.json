@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "line": "Are you a semicolon? Because every time I see you, my heart ends with you.",
+    "techContext": "Programming syntax"
+  },
+  {
+    "id": 2,
+    "line": "Are you a commit? Because I want to push you to my heart ❤️.",
+    "techContext": "Git"
+  },
+  {
+    "id": 3,
+    "line": "You must be HTML, because you structure my world.",
+    "techContext": "Frontend"
+  },
+  {
+    "id": 4,
+    "line": "Are you my VSCode? Because I feel productive around you.",
+    "techContext": "Developer tools"
+  },
+  {
+    "id": 5,
+    "line": "You auto-complete me like IntelliSense.",
+    "techContext": "Code editor smart suggestions"
+  },
+  {
+    "id": 6,
+    "line": "Are we in a recursive function? Because I keep falling for you again and again.",
+    "techContext": "Programming logic"
+  },
+  {
+    "id": 7,
+    "line": "You must be async… because you complete me eventually.",
+    "techContext": "Async/Await"
+  },
+  {
+    "id": 8,
+    "line": "Are you localhost? Because I feel at home with you.",
+    "techContext": "Web development"
+  },
+  {
+    "id": 9,
+    "line": "You’re like a 200 OK — everything's fine when you’re here.",
+    "techContext": "HTTP Status Code"
+  },
+  {
+    "id": 10,
+    "line": "Our love doesn’t need testing… it's already bug-free!",
+    "techContext": "Software testing"
+  },
+  {
+    "id": 11,
+    "line": "Are you CSS? Because you make everything look beautiful.",
+    "techContext": "Frontend Styling"
+  },
+  {
+    "id": 12,
+    "line": "You must be an API response — because I’ve been waiting for you.",
+    "techContext": "API/Web development"
+  },
+  {
+    "id": 13,
+    "line": "You're like a framework — you give structure to my messy life.",
+    "techContext": "Frameworks"
+  },
+  {
+    "id": 14,
+    "line": "You must be a constructor, because you build my happiness.",
+    "techContext": "Object-oriented programming"
+  },
+  {
+    "id": 15,
+    "line": "Are you a POST request? Because I want to send my ❤️ to you.",
+    "techContext": "HTTP methods"
+  },
+  {
+    "id": 16,
+    "line": "You’re the npm to my project — can’t run without you.",
+    "techContext": "Node.js/npm"
+  },
+  {
+    "id": 17,
+    "line": "You’re like a dark theme — easy on my eyes and hard to live without.",
+    "techContext": "Developer UX"
+  },
+  {
+    "id": 18,
+    "line": "Are you a try-catch block? Because you caught me when I was falling.",
+    "techContext": "Error handling"
+  },
+  {
+    "id": 19,
+    "line": "You're like a clean PR — no conflicts, just pure compatibility.",
+    "techContext": "Git / Pull Requests"
+  },
+  {
+    "id": 20,
+    "line": "You must be an AI model — because you're learning everything I love.",
+    "techContext": "AI/ML"
+  },
+  {
+    "id": 21,
+    "line": "Are you a database? Because I can't stop querying about you.",
+    "techContext": "Databases / SQL"
+  },
+  {
+    "id": 22,
+    "line": "You're the closing tag to my lonely heart.",
+    "techContext": "HTML / Markup"
+  },
+  {
+    "id": 23,
+    "line": "Are you a Boolean? Because you’re either the one or the only one.",
+    "techContext": "Logic / Programming"
+  },
+  {
+    "id": 24,
+    "line": "You’re the default value in my life — I never want to reset you.",
+    "techContext": "Variables / Defaults"
+  },
+  {
+    "id": 25,
+    "line": "Is your name GitHub? Because I want to fork you and keep a copy forever.",
+    "techContext": "GitHub / Version Control"
+  },
+  {
+    "id": 26,
+    "line": "You’re my favorite library — always reusable and never deprecated.",
+    "techContext": "Software Engineering / Packages"
+  },
+  {
+    "id": 27,
+    "line": "Are you an exception? Because I can’t handle you!",
+    "techContext": "Error Handling"
+  },
+  {
+    "id": 28,
+    "line": "Our love is like infinite loop — it just keeps going!",
+    "techContext": "Loops / Logic"
+  },
+  {
+    "id": 29,
+    "line": "You're like my terminal — black, beautiful, and full of power.",
+    "techContext": "Terminal / CLI tools"
+  },
+  {
+    "id": 30,
+    "line": "You're the syntax to my program — without you, I break.",
+    "techContext": "Syntax / Code Structure"
+  }
+]

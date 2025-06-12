@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "insult": "Your code is like Internet Explorer — nobody wants to work with it.",
+    "techContext": "Old browsers, bad compatibility"
+  },
+  {
+    "id": 2,
+    "insult": "You're the kind of dev who writes CSS with `!important` on every line.",
+    "techContext": "Bad CSS practice"
+  },
+  {
+    "id": 3,
+    "insult": "Even AI can’t explain your code — and I asked twice.",
+    "techContext": "Unreadable code"
+  },
+  {
+    "id": 4,
+    "insult": "Your logic is so broken, even null ran away.",
+    "techContext": "Null/logic bugs"
+  },
+  {
+    "id": 5,
+    "insult": "You make Java look fast.",
+    "techContext": "Joke on Java’s perceived slowness"
+  },
+  {
+    "id": 6,
+    "insult": "Your Git history looks like a horror story — full of force-pushes and regrets.",
+    "techContext": "Bad Git usage"
+  },
+  {
+    "id": 7,
+    "insult": "You must code in production… because nothing makes sense and everything’s on fire.",
+    "techContext": "Deploying messy code"
+  },
+  {
+    "id": 8,
+    "insult": "Your `console.log` is your debugger… and your therapist.",
+    "techContext": "Beginner debugging habit"
+  },
+  {
+    "id": 9,
+    "insult": "You refactor like a cat on the keyboard — randomly and with chaos.",
+    "techContext": "Poor refactoring"
+  },
+  {
+    "id": 10,
+    "insult": "Your pull requests come with popcorn — because they’re always dramatic.",
+    "techContext": "Team collaboration"
+  },
+  {
+    "id": 11,
+    "insult": "Your code needs a README, a TED Talk, and divine intervention.",
+    "techContext": "Code clarity/documentation"
+  },
+  {
+    "id": 12,
+    "insult": "You write `if (true)` just to feel safe.",
+    "techContext": "Pointless conditionals"
+  },
+  {
+    "id": 13,
+    "insult": "Your Stack Overflow history deserves its own Netflix documentary.",
+    "techContext": "Frequent confusion"
+  },
+  {
+    "id": 14,
+    "insult": "You use inline styles like it's 1999.",
+    "techContext": "Old-school styling"
+  },
+  {
+    "id": 15,
+    "insult": "Your app crashes more than my sleep schedule.",
+    "techContext": "Unstable builds"
+  },
+  {
+    "id": 16,
+    "insult": "You commit `.env` files like it's a feature.",
+    "techContext": "Security mistake"
+  },
+  {
+    "id": 17,
+    "insult": "You think ‘clean code’ means deleting someone else’s work.",
+    "techContext": "Poor collaboration"
+  },
+  {
+    "id": 18,
+    "insult": "Your functions are so long, they need an intermission.",
+    "techContext": "Code modularity"
+  },
+  {
+    "id": 19,
+    "insult": "Your merge conflicts have merge conflicts.",
+    "techContext": "Git chaos"
+  },
+  {
+    "id": 20,
+    "insult": "You use ‘admin123’ as the default password — and call it secure.",
+    "techContext": "Security practices"
+  },
+  {
+    "id": 21,
+    "insult": "Your idea of code reuse is copy-pasting Stack Overflow answers — without reading them.",
+    "techContext": "Bad dev practice"
+  },
+  {
+    "id": 22,
+    "insult": "Your CSS is so broken, even Bootstrap gave up on you.",
+    "techContext": "Frontend styling"
+  },
+  {
+    "id": 23,
+    "insult": "You test in production like it’s a religion.",
+    "techContext": "Deployment disasters"
+  },
+  {
+    "id": 24,
+    "insult": "Your code smells worse than a 10-year-old PHP project.",
+    "techContext": "Code hygiene"
+  },
+  {
+    "id": 25,
+    "insult": "You use comments to apologize instead of explain.",
+    "techContext": "Comment misuse"
+  },
+  {
+    "id": 26,
+    "insult": "Your UI looks like it was designed by throwing pixels at the screen.",
+    "techContext": "Bad design"
+  },
+  {
+    "id": 27,
+    "insult": "You write unit tests that always pass — even if nothing works.",
+    "techContext": "Fake testing"
+  },
+  {
+    "id": 28,
+    "insult": "You use `console.log('here')` more than you write actual logic.",
+    "techContext": "Debugging habits"
+  },
+  {
+    "id": 29,
+    "insult": "Your code review comments are just 'LGTM' — because even you gave up.",
+    "techContext": "Team reviews"
+  },
+  {
+    "id": 30,
+    "insult": "You deploy on Friday… and expect a peaceful weekend.",
+    "techContext": "DevOps chaos"
+  }
+]

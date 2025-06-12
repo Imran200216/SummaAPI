@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Chutti Chinna Papa",
+    "channel": "Chutti TV",
+    "language": "Tamil",
+    "genre": "Comedy",
+    "origin": "India",
+    "thumbnail": "https://example.com/images/chutti-chinna-papa.png"
+  },
+  {
+    "id": 2,
+    "name": "Dora the Explorer",
+    "channel": "Chutti TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Adventure, Educational",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/dora.png"
+  },
+  {
+    "id": 3,
+    "name": "Jackie Chan Adventures",
+    "channel": "Pogo",
+    "language": "Tamil (Dubbed)",
+    "genre": "Action, Fantasy",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/jackie-chan.png"
+  },
+  {
+    "id": 4,
+    "name": "Tom and Jerry",
+    "channel": "Pogo / Chutti TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Comedy",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/tom-jerry.png"
+  },
+  {
+    "id": 5,
+    "name": "Dragon Booster",
+    "channel": "Chutti TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Sci-Fi, Racing",
+    "origin": "Canada",
+    "thumbnail": "https://example.com/images/dragon-booster.png"
+  },
+  {
+    "id": 6,
+    "name": "Mr. Bean (Animated)",
+    "channel": "Pogo",
+    "language": "Tamil (Dubbed)",
+    "genre": "Comedy",
+    "origin": "UK",
+    "thumbnail": "https://example.com/images/mrbean.png"
+  },
+  {
+    "id": 7,
+    "name": "Powerpuff Girls",
+    "channel": "Cartoon Network",
+    "language": "Tamil (Dubbed)",
+    "genre": "Superhero, Comedy",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/powerpuff.png"
+  },
+  {
+    "id": 8,
+    "name": "Dexter's Laboratory",
+    "channel": "Cartoon Network",
+    "language": "Tamil (Dubbed)",
+    "genre": "Sci-Fi, Comedy",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/dexter.png"
+  },
+  {
+    "id": 9,
+    "name": "Beyblade",
+    "channel": "Chutti TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Sports, Action",
+    "origin": "Japan",
+    "thumbnail": "https://example.com/images/beyblade.png"
+  },
+  {
+    "id": 10,
+    "name": "Shinchan",
+    "channel": "Chutti TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Comedy, Slice of Life",
+    "origin": "Japan",
+    "thumbnail": "https://example.com/images/shinchan.png"
+  },
+  {
+    "id": 11,
+    "name": "Noddy",
+    "channel": "Chutti TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Adventure, Educational",
+    "origin": "UK",
+    "thumbnail": "https://example.com/images/noddy.png"
+  },
+  {
+    "id": 12,
+    "name": "Oswald",
+    "channel": "Pogo",
+    "language": "Tamil (Dubbed)",
+    "genre": "Slice of Life, Kids",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/oswald.png"
+  },
+  {
+    "id": 13,
+    "name": "Chhota Bheem",
+    "channel": "Pogo",
+    "language": "Tamil (Dubbed)",
+    "genre": "Action, Kids",
+    "origin": "India",
+    "thumbnail": "https://example.com/images/chhotabheem.png"
+  },
+  {
+    "id": 14,
+    "name": "Oggy and the Cockroaches",
+    "channel": "Chutti TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Comedy, Slapstick",
+    "origin": "France",
+    "thumbnail": "https://example.com/images/oggy.png"
+  },
+  {
+    "id": 15,
+    "name": "Bob the Builder",
+    "channel": "Chutti TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Educational, Construction",
+    "origin": "UK",
+    "thumbnail": "https://example.com/images/bob-builder.png"
+  },
+  {
+    "id": 16,
+    "name": "Pokemon",
+    "channel": "Hungama TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Fantasy, Adventure",
+    "origin": "Japan",
+    "thumbnail": "https://example.com/images/pokemon.png"
+  },
+  {
+    "id": 17,
+    "name": "Digimon",
+    "channel": "Jetix",
+    "language": "Tamil (Dubbed)",
+    "genre": "Sci-Fi, Adventure",
+    "origin": "Japan",
+    "thumbnail": "https://example.com/images/digimon.png"
+  },
+  {
+    "id": 18,
+    "name": "Kochikame",
+    "channel": "Chutti TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Comedy, Police",
+    "origin": "Japan",
+    "thumbnail": "https://example.com/images/kochikame.png"
+  },
+  {
+    "id": 19,
+    "name": "Roll No. 21",
+    "channel": "Cartoon Network",
+    "language": "Tamil (Dubbed)",
+    "genre": "Action, Mythology",
+    "origin": "India",
+    "thumbnail": "https://example.com/images/rollno21.png"
+  },
+  {
+    "id": 20,
+    "name": "Kim Possible",
+    "channel": "Jetix",
+    "language": "Tamil (Dubbed)",
+    "genre": "Spy, Comedy",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/kimpossible.png"
+  },
+  {
+    "id": 21,
+    "name": "Power Rangers",
+    "channel": "Jetix",
+    "language": "Tamil (Dubbed)",
+    "genre": "Action, Superhero",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/powerrangers.png"
+  },
+  {
+    "id": 22,
+    "name": "Shinzo",
+    "channel": "Jetix",
+    "language": "Tamil (Dubbed)",
+    "genre": "Sci-Fi, Adventure",
+    "origin": "Japan",
+    "thumbnail": "https://example.com/images/shinzo.png"
+  },
+  {
+    "id": 23,
+    "name": "Super Robot Monkey Team Hyperforce Go!",
+    "channel": "Jetix",
+    "language": "Tamil (Dubbed)",
+    "genre": "Sci-Fi, Action",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/monkeyteam.png"
+  },
+  {
+    "id": 24,
+    "name": "The Suite Life of Zack & Cody",
+    "channel": "Disney Channel",
+    "language": "Tamil (Dubbed)",
+    "genre": "Comedy, Sitcom",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/zack-cody.png"
+  },
+  {
+    "id": 25,
+    "name": "Hannah Montana",
+    "channel": "Disney Channel",
+    "language": "Tamil (Dubbed)",
+    "genre": "Music, Comedy",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/hannah.png"
+  },
+  {
+    "id": 26,
+    "name": "Phineas and Ferb",
+    "channel": "Disney Channel",
+    "language": "Tamil (Dubbed)",
+    "genre": "Comedy, Sci-Fi",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/phineas.png"
+  },
+  {
+    "id": 27,
+    "name": "Teamo Supremo",
+    "channel": "Disney Channel",
+    "language": "Tamil (Dubbed)",
+    "genre": "Superhero, Comedy",
+    "origin": "USA",
+    "thumbnail": "https://example.com/images/teamo.png"
+  },
+  {
+    "id": 28,
+    "name": "Kiteretsu",
+    "channel": "Hungama TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Science, Slice of Life",
+    "origin": "Japan",
+    "thumbnail": "https://example.com/images/kiteretsu.png"
+  },
+  {
+    "id": 29,
+    "name": "Supa Strikas",
+    "channel": "Disney XD",
+    "language": "Tamil (Dubbed)",
+    "genre": "Sports, Football",
+    "origin": "South Africa",
+    "thumbnail": "https://example.com/images/supastrikas.png"
+  },
+  {
+    "id": 30,
+    "name": "Doraemon",
+    "channel": "Hungama TV",
+    "language": "Tamil (Dubbed)",
+    "genre": "Comedy, Sci-Fi",
+    "origin": "Japan",
+    "thumbnail": "https://example.com/images/doraemon.png"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "V. O. Chidambaram Pillai",
+    "nickname": "Kappalottiya Tamizhan",
+    "birthPlace": "Ottapidaram, Tamil Nadu",
+    "knownFor": "Launched Swadeshi Steam Navigation Company",
+    "movement": "Swadeshi Movement",
+    "thumbnail": "https://example.com/images/voc.png"
+  },
+  {
+    "id": 2,
+    "name": "Subramania Bharathi",
+    "nickname": "Mahakavi Bharathi",
+    "birthPlace": "Ettayapuram, Tamil Nadu",
+    "knownFor": "Patriotic poems and revolutionary journalism",
+    "movement": "Indian National Movement",
+    "thumbnail": "https://example.com/images/bharathi.png"
+  },
+  {
+    "id": 3,
+    "name": "Tiruppur Kumaran",
+    "nickname": "Kodi Kaatha Kumaran",
+    "birthPlace": "Tiruppur, Tamil Nadu",
+    "knownFor": "Died protecting the Indian flag",
+    "movement": "Civil Disobedience Movement",
+    "thumbnail": "https://example.com/images/kumaran.png"
+  },
+  {
+    "id": 4,
+    "name": "Sathyamurthy",
+    "nickname": "S. Satyamurthi",
+    "birthPlace": "Thirumayam, Tamil Nadu",
+    "knownFor": "Congress leader and orator",
+    "movement": "Indian National Congress",
+    "thumbnail": "https://example.com/images/satyamurthi.png"
+  },
+  {
+    "id": 5,
+    "name": "K. Kamaraj",
+    "nickname": "Kalvi Thanthai",
+    "birthPlace": "Virudhunagar, Tamil Nadu",
+    "knownFor": "Political strategist, education reformer",
+    "movement": "Indian National Congress",
+    "thumbnail": "https://example.com/images/kamaraj.png"
+  },
+  {
+    "id": 6,
+    "name": "Dheeran Chinnamalai",
+    "nickname": "Dheeran",
+    "birthPlace": "Erode, Tamil Nadu",
+    "knownFor": "Fought against British with Tipu Sultan",
+    "movement": "Armed Resistance",
+    "thumbnail": "https://example.com/images/chinnamalai.png"
+  },
+  {
+    "id": 7,
+    "name": "Rettamalai Srinivasan",
+    "nickname": "Dalit Rights Pioneer",
+    "birthPlace": "Thiruvannamalai, Tamil Nadu",
+    "knownFor": "Fought for Dalit rights & signed Poona Pact",
+    "movement": "Social Justice",
+    "thumbnail": "https://example.com/images/rettamalai.png"
+  },
+  {
+    "id": 8,
+    "name": "Velu Nachiyar",
+    "nickname": "Queen of Sivaganga",
+    "birthPlace": "Sivaganga, Tamil Nadu",
+    "knownFor": "First Indian queen to fight British",
+    "movement": "Armed Resistance",
+    "thumbnail": "https://example.com/images/velunachiyar.png"
+  },
+  {
+    "id": 9,
+    "name": "Maruthu Brothers",
+    "nickname": "Sivagangai Warriors",
+    "birthPlace": "Sivagangai, Tamil Nadu",
+    "knownFor": "Led resistance against British in 1801",
+    "movement": "Rebellion of 1801",
+    "thumbnail": "https://example.com/images/maruthu.png"
+  },
+  {
+    "id": 10,
+    "name": "Vanchinathan",
+    "nickname": "Vanchi",
+    "birthPlace": "Shenkottai, Tamil Nadu",
+    "knownFor": "Assassinated British official Ashe",
+    "movement": "Revolutionary Movement",
+    "thumbnail": "https://example.com/images/vanchinathan.png"
+  },
+  {
+    "id": 11,
+    "name": "Muthuramalinga Thevar",
+    "nickname": "Thevar Ayya",
+    "birthPlace": "Pasumpon, Tamil Nadu",
+    "knownFor": "Forward Bloc leader, anti-colonial activist",
+    "movement": "Anti-Colonial Movement",
+    "thumbnail": "https://example.com/images/thevar.png"
+  },
+  {
+    "id": 12,
+    "name": "Periyar E. V. Ramasamy",
+    "nickname": "Thanthai Periyar",
+    "birthPlace": "Erode, Tamil Nadu",
+    "knownFor": "Social reform, anti-Brahminical movement",
+    "movement": "Self-Respect Movement",
+    "thumbnail": "https://example.com/images/periyar.png"
+  },
+  {
+    "id": 13,
+    "name": "C. Rajagopalachari",
+    "nickname": "Rajaji",
+    "birthPlace": "Salem, Tamil Nadu",
+    "knownFor": "Last Governor-General of India",
+    "movement": "Non-Cooperation Movement",
+    "thumbnail": "https://example.com/images/rajaji.png"
+  },
+  {
+    "id": 14,
+    "name": "Veerapandiya Kattabomman",
+    "nickname": "Panchalankurichi King",
+    "birthPlace": "Panchalankurichi, Tamil Nadu",
+    "knownFor": "Fought British in early resistance",
+    "movement": "Armed Resistance",
+    "thumbnail": "https://example.com/images/kattabomman.png"
+  },
+  {
+    "id": 15,
+    "name": "Puli Thevar",
+    "nickname": "Lion of Nellai",
+    "birthPlace": "Nerkattumseval, Tamil Nadu",
+    "knownFor": "One of first to oppose British",
+    "movement": "Pre-1857 Resistance",
+    "thumbnail": "https://example.com/images/pulithevar.png"
+  },
+  {
+    "id": 16,
+    "name": "M. P. Sivagnanam",
+    "nickname": "Ma. Po. Si",
+    "birthPlace": "Chennai, Tamil Nadu",
+    "knownFor": "Tamil scholar, Independence activist",
+    "movement": "Tamil Nationalism",
+    "thumbnail": "https://example.com/images/maposi.png"
+  },
+  {
+    "id": 17,
+    "name": "Bharathidasan",
+    "nickname": "Puratchi Kavingar",
+    "birthPlace": "Puducherry",
+    "knownFor": "Poetry for freedom and equality",
+    "movement": "Social Reform",
+    "thumbnail": "https://example.com/images/bharathidasan.png"
+  },
+  {
+    "id": 18,
+    "name": "Kuyili",
+    "nickname": "First Suicide Bomber in India",
+    "birthPlace": "Sivaganga, Tamil Nadu",
+    "knownFor": "Set herself on fire to destroy British fort",
+    "movement": "Velu Nachiyar's Army",
+    "thumbnail": "https://example.com/images/kuyili.png"
+  },
+  {
+    "id": 19,
+    "name": "U. Muthuramalingam",
+    "nickname": "Unknown Rebel",
+    "birthPlace": "Tirunelveli District",
+    "knownFor": "Regional resistance leader",
+    "movement": "Peasant Uprisings",
+    "thumbnail": "https://example.com/images/muthuramalingam.png"
+  },
+  {
+    "id": 20,
+    "name": "Kaliappan",
+    "nickname": "Revolutionary Leader",
+    "birthPlace": "Dharmapuri, Tamil Nadu",
+    "knownFor": "Freedom protests and political work",
+    "movement": "Civil Disobedience",
+    "thumbnail": "https://example.com/images/kaliappan.png"
+  },
+  {
+    "id": 21,
+    "name": "T. Prakasam",
+    "nickname": "Andhra Kesari",
+    "birthPlace": "Kandukur (then part of Madras Presidency)",
+    "knownFor": "Freedom fighter and lawyer who stood against British firing squad unarmed",
+    "movement": "Swadeshi Movement",
+    "thumbnail": "https://example.com/images/prakasam.png"
+  },
+  {
+    "id": 22,
+    "name": "Rukmini Lakshmipathi",
+    "nickname": "First Woman Minister of Tamil Nadu",
+    "birthPlace": "Chennai, Tamil Nadu",
+    "knownFor": "Salt Satyagraha participant and social reformer",
+    "movement": "Civil Disobedience Movement",
+    "thumbnail": "https://example.com/images/rukmini.png"
+  },
+  {
+    "id": 23,
+    "name": "Thillaiyadi Valliammai",
+    "nickname": "Young Martyr",
+    "birthPlace": "Thillaiyadi, Tamil Nadu",
+    "knownFor": "Imprisoned and died at age 16 in South Africa for Satyagraha with Gandhi",
+    "movement": "Satyagraha",
+    "thumbnail": "https://example.com/images/valliammai.png"
+  },
+  {
+    "id": 24,
+    "name": "P. Jeevanandham",
+    "nickname": "Jeeva",
+    "birthPlace": "Thoothukudi, Tamil Nadu",
+    "knownFor": "Socialist thinker, writer, and Tamil activist",
+    "movement": "Trade Union and Language Movements",
+    "thumbnail": "https://example.com/images/jeeva.png"
+  },
+  {
+    "id": 25,
+    "name": "T. Muthuswamy Pillai",
+    "nickname": "Legal Luminary",
+    "birthPlace": "Thanjavur, Tamil Nadu",
+    "knownFor": "First Indian judge in Madras High Court",
+    "movement": "Colonial Resistance",
+    "thumbnail": "https://example.com/images/muthuswamy.png"
+  },
+  {
+    "id": 26,
+    "name": "Subramania Siva",
+    "nickname": "Revolutionary Orator",
+    "birthPlace": "Batlagundu, Tamil Nadu",
+    "knownFor": "Swadeshi activist and writer",
+    "movement": "Swadeshi Movement",
+    "thumbnail": "https://example.com/images/siva.png"
+  },
+  {
+    "id": 27,
+    "name": "G. Subramania Iyer",
+    "nickname": "Father of Tamil Journalism",
+    "birthPlace": "Tiruvadi, Tamil Nadu",
+    "knownFor": "Founder of The Hindu newspaper and activist",
+    "movement": "National Awakening",
+    "thumbnail": "https://example.com/images/subramania_iyer.png"
+  },
+  {
+    "id": 28,
+    "name": "V. V. S. Aiyar",
+    "nickname": "Tamil Revolutionary",
+    "birthPlace": "Trichy, Tamil Nadu",
+    "knownFor": "Part of India House, London; militant nationalist",
+    "movement": "Indian Revolutionary Movement",
+    "thumbnail": "https://example.com/images/vvsaiyar.png"
+  },
+  {
+    "id": 29,
+    "name": "K. S. Ramaswamy Gounder",
+    "nickname": "Freedom Activist",
+    "birthPlace": "Erode, Tamil Nadu",
+    "knownFor": "Veteran Congress leader and MP",
+    "movement": "Indian National Movement",
+    "thumbnail": "https://example.com/images/ksrgounder.png"
+  },
+  {
+    "id": 30,
+    "name": "N. Sivaraj",
+    "nickname": "First Mayor of Madras",
+    "birthPlace": "Chennai, Tamil Nadu",
+    "knownFor": "Dalit leader and political pioneer",
+    "movement": "Dalit Rights Movement",
+    "thumbnail": "https://example.com/images/nsivaraj.png"
+  }
+]

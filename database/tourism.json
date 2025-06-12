@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "name": "Meenakshi Amman Temple",
+    "location": "Madurai",
+    "features": ["Dravidian architecture", "Gopurams", "Cultural heritage"],
+    "category": "Temple",
+    "thumbnail": "https://example.com/images/meenakshi-temple.png"
+  },
+  {
+    "id": 2,
+    "name": "Brihadeeswara Temple",
+    "location": "Thanjavur",
+    "features": [
+      "UNESCO World Heritage",
+      "Chola architecture",
+      "Massive Shiva lingam"
+    ],
+    "category": "Temple",
+    "thumbnail": "https://example.com/images/brihadeeswara-temple.png"
+  },
+  {
+    "id": 3,
+    "name": "Ooty",
+    "location": "Nilgiris",
+    "features": ["Botanical Gardens", "Ooty Lake", "Toy train"],
+    "category": "Hill Station",
+    "thumbnail": "https://example.com/images/ooty.png"
+  },
+  {
+    "id": 4,
+    "name": "Kodaikanal",
+    "location": "Dindigul",
+    "features": ["Coaker's Walk", "Kodaikanal Lake", "Pine Forests"],
+    "category": "Hill Station",
+    "thumbnail": "https://example.com/images/kodaikanal.png"
+  },
+  {
+    "id": 5,
+    "name": "Rameswaram",
+    "location": "Ramanathapuram",
+    "features": [
+      "Ramanathaswamy Temple",
+      "Pamban Bridge",
+      "Seashore pilgrimage"
+    ],
+    "category": "Pilgrimage",
+    "thumbnail": "https://example.com/images/rameswaram.png"
+  },
+  {
+    "id": 6,
+    "name": "Mahabalipuram",
+    "location": "Chengalpattu",
+    "features": ["Shore Temple", "Pancha Rathas", "Stone carvings"],
+    "category": "Heritage Site",
+    "thumbnail": "https://example.com/images/mahabalipuram.png"
+  },
+  {
+    "id": 7,
+    "name": "Kanyakumari",
+    "location": "Kanyakumari District",
+    "features": ["Sunrise Point", "Vivekananda Rock", "Thiruvalluvar Statue"],
+    "category": "Coastal Town",
+    "thumbnail": "https://example.com/images/kanyakumari.png"
+  },
+  {
+    "id": 8,
+    "name": "Yercaud",
+    "location": "Salem",
+    "features": ["Yercaud Lake", "Pagoda Point", "Coffee plantations"],
+    "category": "Hill Station",
+    "thumbnail": "https://example.com/images/yercaud.png"
+  },
+  {
+    "id": 9,
+    "name": "Chidambaram",
+    "location": "Cuddalore",
+    "features": ["Nataraja Temple", "Spiritual energy", "Chidambara Rahasyam"],
+    "category": "Temple Town",
+    "thumbnail": "https://example.com/images/chidambaram.png"
+  },
+  {
+    "id": 10,
+    "name": "Courtallam",
+    "location": "Tenkasi",
+    "features": ["Waterfalls", "Ayurvedic baths", "Hills and rivers"],
+    "category": "Nature & Wellness",
+    "thumbnail": "https://example.com/images/courtallam.png"
+  },
+  {
+    "id": 11,
+    "name": "Hogenakkal Falls",
+    "location": "Dharmapuri",
+    "features": ["Boating", "Waterfalls", "Scenic beauty"],
+    "category": "Nature",
+    "thumbnail": "https://example.com/images/hogenakkal.png"
+  },
+  {
+    "id": 12,
+    "name": "Vellore Fort",
+    "location": "Vellore",
+    "features": ["Granite fort", "Moat", "Temple, mosque & church inside"],
+    "category": "Historical Fort",
+    "thumbnail": "https://example.com/images/vellore-fort.png"
+  },
+  {
+    "id": 13,
+    "name": "Thiruvannamalai",
+    "location": "Thiruvannamalai",
+    "features": [
+      "Arunachaleswarar Temple",
+      "Spiritual trekking",
+      "Girivalam path"
+    ],
+    "category": "Pilgrimage",
+    "thumbnail": "https://example.com/images/thiruvannamalai.png"
+  },
+  {
+    "id": 14,
+    "name": "Trichy (Srirangam)",
+    "location": "Tiruchirapalli",
+    "features": ["Ranganathaswamy Temple", "Rockfort Temple", "River Cauvery"],
+    "category": "Temple Town",
+    "thumbnail": "https://example.com/images/trichy.png"
+  },
+  {
+    "id": 15,
+    "name": "Pondicherry (Puducherry)",
+    "location": "Puducherry (Near TN border)",
+    "features": ["French architecture", "Promenade Beach", "Auroville"],
+    "category": "Coastal Town",
+    "thumbnail": "https://example.com/images/pondicherry.png"
+  },
+  {
+    "id": 16,
+    "name": "Thoothukudi (Tuticorin)",
+    "location": "Thoothukudi",
+    "features": ["Beaches", "Temples", "Harbor"],
+    "category": "Coastal Town",
+    "thumbnail": "https://example.com/images/thoothukudi.png"
+  },
+  {
+    "id": 17,
+    "name": "Coonoor",
+    "location": "Nilgiris",
+    "features": ["Tea estates", "Dolphin’s Nose", "Toy train ride"],
+    "category": "Hill Station",
+    "thumbnail": "https://example.com/images/coonoor.png"
+  },
+  {
+    "id": 18,
+    "name": "Palani",
+    "location": "Dindigul",
+    "features": ["Murugan Temple", "Hill climb", "Spiritual vibe"],
+    "category": "Pilgrimage",
+    "thumbnail": "https://example.com/images/palani.png"
+  },
+  {
+    "id": 19,
+    "name": "Namakkal Anjaneyar Temple",
+    "location": "Namakkal",
+    "features": ["18 ft Hanuman idol", "Historic temples", "Peaceful town"],
+    "category": "Temple",
+    "thumbnail": "https://example.com/images/namakkal.png"
+  },
+  {
+    "id": 20,
+    "name": "Srivilliputhur Andal Temple",
+    "location": "Virudhunagar",
+    "features": ["Tall gopuram", "Vaishnavite temple", "Architectural beauty"],
+    "category": "Temple",
+    "thumbnail": "https://example.com/images/srivilliputhur.png"
+  }
+]

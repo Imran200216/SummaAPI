@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto Uzumaki",
+    "realName": "Naruto Uzumaki",
+    "power": ["Shadow Clone Jutsu", "Rasengan", "Nine-Tails Chakra"],
+    "team": "Team 7",
+    "universe": "Naruto",
+    "thumbnail": "https://example.com/images/naruto.png"
+  },
+  {
+    "id": 2,
+    "name": "Sasuke Uchiha",
+    "realName": "Sasuke Uchiha",
+    "power": ["Sharingan", "Chidori", "Amaterasu"],
+    "team": "Team 7",
+    "universe": "Naruto",
+    "thumbnail": "https://example.com/images/sasuke.png"
+  },
+  {
+    "id": 3,
+    "name": "Goku",
+    "realName": "Kakarot",
+    "power": ["Super Saiyan", "Kamehameha", "Ultra Instinct"],
+    "team": "Z Fighters",
+    "universe": "Dragon Ball",
+    "thumbnail": "https://example.com/images/goku.png"
+  },
+  {
+    "id": 4,
+    "name": "Vegeta",
+    "realName": "Vegeta IV",
+    "power": ["Final Flash", "Galick Gun", "Super Saiyan Blue"],
+    "team": "Z Fighters",
+    "universe": "Dragon Ball",
+    "thumbnail": "https://example.com/images/vegeta.png"
+  },
+  {
+    "id": 5,
+    "name": "Luffy",
+    "realName": "Monkey D. Luffy",
+    "power": ["Gum-Gum Fruit", "Gear Fourth", "Haki"],
+    "team": "Straw Hat Pirates",
+    "universe": "One Piece",
+    "thumbnail": "https://example.com/images/luffy.png"
+  },
+  {
+    "id": 6,
+    "name": "Zoro",
+    "realName": "Roronoa Zoro",
+    "power": ["Three-Sword Style", "Asura", "Haki"],
+    "team": "Straw Hat Pirates",
+    "universe": "One Piece",
+    "thumbnail": "https://example.com/images/zoro.png"
+  },
+  {
+    "id": 7,
+    "name": "Tanjiro Kamado",
+    "realName": "Tanjiro Kamado",
+    "power": ["Water Breathing", "Sun Breathing", "Enhanced sense of smell"],
+    "team": "Demon Slayer Corps",
+    "universe": "Demon Slayer",
+    "thumbnail": "https://example.com/images/tanjiro.png"
+  },
+  {
+    "id": 8,
+    "name": "Levi Ackerman",
+    "realName": "Levi Ackerman",
+    "power": ["ODM Gear Mastery", "Strategic mind", "Superhuman reflexes"],
+    "team": "Survey Corps",
+    "universe": "Attack on Titan",
+    "thumbnail": "https://example.com/images/levi.png"
+  },
+  {
+    "id": 9,
+    "name": "Ichigo Kurosaki",
+    "realName": "Ichigo Kurosaki",
+    "power": ["Bankai", "Hollow form", "Getsuga Tensho"],
+    "team": "Soul Reapers",
+    "universe": "Bleach",
+    "thumbnail": "https://example.com/images/ichigo.png"
+  },
+  {
+    "id": 10,
+    "name": "Light Yagami",
+    "realName": "Light Yagami",
+    "power": ["Death Note", "Genius intellect", "Strategic manipulation"],
+    "team": "None",
+    "universe": "Death Note",
+    "thumbnail": "https://example.com/images/light.png"
+  },
+  {
+    "id": 11,
+    "name": "Eren Yeager",
+    "realName": "Eren Yeager",
+    "power": ["Founding Titan", "Attack Titan", "Titan shifting"],
+    "team": "Survey Corps",
+    "universe": "Attack on Titan",
+    "thumbnail": "https://example.com/images/eren.png"
+  },
+  {
+    "id": 12,
+    "name": "Saitama",
+    "realName": "Saitama",
+    "power": ["One Punch", "Limitless strength", "Speed"],
+    "team": "Hero Association",
+    "universe": "One Punch Man",
+    "thumbnail": "https://example.com/images/saitama.png"
+  },
+  {
+    "id": 13,
+    "name": "Genos",
+    "realName": "Genos",
+    "power": ["Cyborg body", "Incineration cannons", "Super speed"],
+    "team": "Hero Association",
+    "universe": "One Punch Man",
+    "thumbnail": "https://example.com/images/genos.png"
+  },
+  {
+    "id": 14,
+    "name": "Edward Elric",
+    "realName": "Edward Elric",
+    "power": ["Alchemy", "Automail arm", "Transmutation"],
+    "team": "State Alchemists",
+    "universe": "Fullmetal Alchemist",
+    "thumbnail": "https://example.com/images/edward.png"
+  },
+  {
+    "id": 15,
+    "name": "Killua Zoldyck",
+    "realName": "Killua Zoldyck",
+    "power": ["Assassin skills", "Electric aura", "Godspeed"],
+    "team": "Hunter Association",
+    "universe": "Hunter x Hunter",
+    "thumbnail": "https://example.com/images/killua.png"
+  },
+  {
+    "id": 16,
+    "name": "Gon Freecss",
+    "realName": "Gon Freecss",
+    "power": ["Jajanken", "Nen", "Enhanced senses"],
+    "team": "Hunter Association",
+    "universe": "Hunter x Hunter",
+    "thumbnail": "https://example.com/images/gon.png"
+  },
+  {
+    "id": 17,
+    "name": "Itachi Uchiha",
+    "realName": "Itachi Uchiha",
+    "power": ["Sharingan", "Tsukuyomi", "Amaterasu"],
+    "team": "Akatsuki",
+    "universe": "Naruto",
+    "thumbnail": "https://example.com/images/itachi.png"
+  },
+  {
+    "id": 18,
+    "name": "Gojo Satoru",
+    "realName": "Satoru Gojo",
+    "power": ["Limitless Cursed Energy", "Infinity", "Six Eyes"],
+    "team": "Jujutsu Sorcerers",
+    "universe": "Jujutsu Kaisen",
+    "thumbnail": "https://example.com/images/gojo.png"
+  },
+  {
+    "id": 19,
+    "name": "Nezuko Kamado",
+    "realName": "Nezuko Kamado",
+    "power": ["Demon blood art", "Superhuman strength", "Regeneration"],
+    "team": "Demon Slayer Corps",
+    "universe": "Demon Slayer",
+    "thumbnail": "https://example.com/images/nezuko.png"
+  },
+  {
+    "id": 20,
+    "name": "Makima",
+    "realName": "Makima",
+    "power": [
+      "Control Devil abilities",
+      "Mind manipulation",
+      "Contract summoning"
+    ],
+    "team": "Public Safety Devil Hunters",
+    "universe": "Chainsaw Man",
+    "thumbnail": "https://example.com/images/makima.png"
+  }
+]

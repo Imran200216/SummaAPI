@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "code": "404",
+    "name": "Not Found",
+    "type": "HTTP",
+    "description": "The server can’t find the requested resource. Often happens if a URL is wrong or the endpoint doesn’t exist."
+  },
+  {
+    "id": 2,
+    "code": "500",
+    "name": "Internal Server Error",
+    "type": "HTTP",
+    "description": "Something went wrong on the server side — like an exception or broken code."
+  },
+  {
+    "id": 3,
+    "code": "400",
+    "name": "Bad Request",
+    "type": "HTTP",
+    "description": "The server couldn't understand the request due to invalid syntax (e.g., missing or malformed JSON)."
+  },
+  {
+    "id": 4,
+    "code": "401",
+    "name": "Unauthorized",
+    "type": "HTTP",
+    "description": "Authentication is required, but not provided or invalid (like missing token)."
+  },
+  {
+    "id": 5,
+    "code": "403",
+    "name": "Forbidden",
+    "type": "HTTP",
+    "description": "You’re not allowed to access this resource, even if authenticated."
+  },
+  {
+    "id": 6,
+    "code": "CORS",
+    "name": "Cross-Origin Resource Sharing Error",
+    "type": "Browser",
+    "description": "The frontend is trying to access a backend hosted on another domain without proper CORS headers. Use `Access-Control-Allow-Origin` on the server."
+  },
+  {
+    "id": 7,
+    "code": "NPE",
+    "name": "Null Pointer Exception",
+    "type": "Java/Dart/Android",
+    "description": "You tried to use a variable that hasn't been assigned a value (null)."
+  },
+  {
+    "id": 8,
+    "code": "403 Firebase",
+    "name": "Firebase Permission Denied",
+    "type": "Firebase",
+    "description": "Your Firestore rules don’t allow the read/write operation. Update `firestore.rules` accordingly."
+  },
+  {
+    "id": 9,
+    "code": "EADDRINUSE",
+    "name": "Address In Use",
+    "type": "Node.js",
+    "description": "The port you are trying to use is already taken — maybe another instance is running on it."
+  },
+  {
+    "id": 10,
+    "code": "SyntaxError",
+    "name": "Syntax Error",
+    "type": "JavaScript/Python",
+    "description": "Your code has a typo or incorrect syntax that prevents it from running."
+  },
+  {
+    "id": 11,
+    "code": "502",
+    "name": "Bad Gateway",
+    "type": "HTTP",
+    "description": "The server (acting as a gateway) received an invalid response from the upstream server."
+  },
+  {
+    "id": 12,
+    "code": "503",
+    "name": "Service Unavailable",
+    "type": "HTTP",
+    "description": "The server is currently overloaded or under maintenance. Try again later."
+  },
+  {
+    "id": 13,
+    "code": "504",
+    "name": "Gateway Timeout",
+    "type": "HTTP",
+    "description": "The server didn't get a response in time from the backend service."
+  },
+  {
+    "id": 14,
+    "code": "Firebase: auth/network-request-failed",
+    "name": "Firebase Network Error",
+    "type": "Firebase",
+    "description": "The device has no internet or can't reach Firebase servers. Often occurs during login/signup."
+  },
+  {
+    "id": 15,
+    "code": "TypeError",
+    "name": "Type Error",
+    "type": "JavaScript/Python",
+    "description": "You tried to do an invalid operation on a value (like adding a string and a number)."
+  },
+  {
+    "id": 16,
+    "code": "ModuleNotFoundError",
+    "name": "Module Not Found",
+    "type": "Python",
+    "description": "You're trying to import a module that doesn’t exist or isn’t installed."
+  },
+  {
+    "id": 17,
+    "code": "ERR_TOO_MANY_REDIRECTS",
+    "name": "Too Many Redirects",
+    "type": "Browser",
+    "description": "Your page is stuck in a redirect loop. This can happen due to wrong routing or server config."
+  },
+  {
+    "id": 18,
+    "code": "PermissionError",
+    "name": "Permission Denied",
+    "type": "Python/OS",
+    "description": "The script is trying to read/write a file or folder it doesn't have access to."
+  },
+  {
+    "id": 19,
+    "code": "SQLITE_CONSTRAINT",
+    "name": "Constraint Violation",
+    "type": "Database",
+    "description": "A database rule (like UNIQUE or NOT NULL) was violated during insert/update."
+  },
+  {
+    "id": 20,
+    "code": "ENOTFOUND",
+    "name": "DNS Not Found",
+    "type": "Node.js",
+    "description": "The hostname couldn’t be resolved — likely due to a wrong URL or offline server."
+  }
+]

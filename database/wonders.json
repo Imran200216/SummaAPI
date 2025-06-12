@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Great Wall of China",
+    "location": "China",
+    "features": [
+      "Ancient military defense",
+      "13,000+ miles long",
+      "Visible from space"
+    ],
+    "category": "Architecture",
+    "thumbnail": "https://example.com/images/great-wall.png"
+  },
+  {
+    "id": 2,
+    "name": "Petra",
+    "location": "Jordan",
+    "features": [
+      "Rock-cut architecture",
+      "Rose-red sandstone",
+      "UNESCO heritage site"
+    ],
+    "category": "Ancient City",
+    "thumbnail": "https://example.com/images/petra.png"
+  },
+  {
+    "id": 3,
+    "name": "Christ the Redeemer",
+    "location": "Brazil",
+    "features": ["Iconic Jesus statue", "Mountaintop view", "Symbol of peace"],
+    "category": "Religious Monument",
+    "thumbnail": "https://example.com/images/christ-the-redeemer.png"
+  },
+  {
+    "id": 4,
+    "name": "Machu Picchu",
+    "location": "Peru",
+    "features": ["Inca citadel", "Mountain scenery", "Historic wonder"],
+    "category": "Ancient Ruins",
+    "thumbnail": "https://example.com/images/machu-picchu.png"
+  },
+  {
+    "id": 5,
+    "name": "Chichen Itza",
+    "location": "Mexico",
+    "features": ["Mayan pyramid", "El Castillo", "Ancient astronomy"],
+    "category": "Historical Site",
+    "thumbnail": "https://example.com/images/chichen-itza.png"
+  },
+  {
+    "id": 6,
+    "name": "Roman Colosseum",
+    "location": "Italy",
+    "features": ["Ancient amphitheater", "Gladiator arena", "Rome landmark"],
+    "category": "Historical Monument",
+    "thumbnail": "https://example.com/images/colosseum.png"
+  },
+  {
+    "id": 7,
+    "name": "Taj Mahal",
+    "location": "India",
+    "features": ["White marble mausoleum", "Love symbol", "UNESCO site"],
+    "category": "Monument",
+    "thumbnail": "https://example.com/images/taj-mahal.png"
+  }
+]

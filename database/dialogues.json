@@ -1,0 +1,269 @@
+[
+  {
+    "id": 1,
+    "actor": "Vijay",
+    "dialogue": "Oru vaati mudivu pannitenna, en pecha naane kekka maaten.",
+    "movie": "Sarkar",
+    "meaning": "Once I decide, I won't even listen to myself."
+  },
+  {
+    "id": 2,
+    "actor": "Vijay",
+    "dialogue": "You don’t need a weapon to be powerful. Just a strong heart is enough.",
+    "movie": "Master",
+    "meaning": "Courage is your ultimate weapon."
+  },
+  {
+    "id": 3,
+    "actor": "Vijay",
+    "dialogue": "Success ah follow panradhu dhaan hero, aana failure ah handle panradhu dhaan legend!",
+    "movie": "Bigil",
+    "meaning": "Chasing success makes you a hero; handling failure makes you a legend."
+  },
+  {
+    "id": 4,
+    "actor": "Suriya",
+    "dialogue": "Vaazhkai oru vattam da... innikku nee keezha irundha, naalaikku mela iruppa.",
+    "movie": "Soorarai Pottru",
+    "meaning": "Life is a circle… if you’re down today, you’ll rise tomorrow."
+  },
+  {
+    "id": 5,
+    "actor": "Suriya",
+    "dialogue": "Naan dhana varuven nu thonicha... flight la ukkandhu varen!",
+    "movie": "Soorarai Pottru",
+    "meaning": "If I decide to come… I’ll arrive flying!"
+  },
+  {
+    "id": 6,
+    "actor": "Suriya",
+    "dialogue": "Naan oru thadava sonna nooru thadava sonna madhiri!",
+    "movie": "Singam (reference to Rajini)",
+    "meaning": "If I say it once, it's like I’ve said it a hundred times!"
+  },
+  {
+    "id": 7,
+    "actor": "Rajinikanth",
+    "dialogue": "Naan solradha seiven, solladhadhaum seiven.",
+    "movie": "Enthiran",
+    "meaning": "I’ll do what I say… and also what I don’t say."
+  },
+  {
+    "id": 8,
+    "actor": "Rajinikanth",
+    "dialogue": "Vandhutaanya… paathutaya?",
+    "movie": "Baasha",
+    "meaning": "He's here… did you see?"
+  },
+  {
+    "id": 9,
+    "actor": "Rajinikanth",
+    "dialogue": "Baasha... naa oru thadava sonna, nooru thadava sonna madhiri!",
+    "movie": "Baasha",
+    "meaning": "If I say it once, it’s as good as saying it a hundred times."
+  },
+  {
+    "id": 10,
+    "actor": "Ajith",
+    "dialogue": "Enna pathi theriyama pesa koodadhu!",
+    "movie": "Vedalam",
+    "meaning": "Don't talk about me without knowing me."
+  },
+  {
+    "id": 11,
+    "actor": "Ajith",
+    "dialogue": "Naalu per sonna naan mariduvana… naan solradha dhaan seiven!",
+    "movie": "Billa",
+    "meaning": "I won’t change just because others say something. I do what I decide."
+  },
+  {
+    "id": 12,
+    "actor": "Ajith",
+    "dialogue": "Therikka vidalama?",
+    "movie": "Veeram",
+    "meaning": "Shall we tear it up? (Let’s go full power!)"
+  },
+  {
+    "id": 13,
+    "actor": "Vijay",
+    "dialogue": "Time ah vandhutta... aprom naan pathukiren!",
+    "movie": "Thuppakki",
+    "meaning": "Once the time comes… I’ll take care of everything."
+  },
+  {
+    "id": 14,
+    "actor": "Vijay",
+    "dialogue": "I am waiting.",
+    "movie": "Thuppakki",
+    "meaning": "Stylish one-liner before the storm."
+  },
+  {
+    "id": 15,
+    "actor": "Suriya",
+    "dialogue": "Enaku oru padathula edhavadhu nadikka sollunga... naan nadichenna Oscar kidaikum!",
+    "movie": "Ayan",
+    "meaning": "Give me any role, I’ll win an Oscar!"
+  },
+  {
+    "id": 16,
+    "actor": "Suriya",
+    "dialogue": "Yaarume kai thodatha level ku poganum!",
+    "movie": "Singam 2",
+    "meaning": "Rise to a level where no one can touch you!"
+  },
+  {
+    "id": 17,
+    "actor": "Rajinikanth",
+    "dialogue": "Style is not in the dress... it's in the walk!",
+    "movie": "Sivaji",
+    "meaning": "Style comes from your attitude, not your clothes."
+  },
+  {
+    "id": 18,
+    "actor": "Rajinikanth",
+    "dialogue": "Lusu aana thaan mass panalam nu nenachaan!",
+    "movie": "Baba",
+    "meaning": "Only a fool thinks mass image is enough."
+  },
+  {
+    "id": 19,
+    "actor": "Ajith",
+    "dialogue": "Naan kadavul illa… aana unakku naan dhaan judgement!",
+    "movie": "Vedalam",
+    "meaning": "I’m not God… but for you, I am your judgement day."
+  },
+  {
+    "id": 20,
+    "actor": "Ajith",
+    "dialogue": "Nee dhaan mudivu panna maatan... naan dhaan!",
+    "movie": "Mankatha",
+    "meaning": "You won’t decide… I will!"
+  },
+  {
+    "id": 21,
+    "actor": "Vijay",
+    "dialogue": "Vaada… vaada… vaada mapla!",
+    "movie": "Mersal",
+    "meaning": "Come on, da! (Stylish invite to action)"
+  },
+  {
+    "id": 22,
+    "actor": "Rajinikanth",
+    "dialogue": "En vazhi... thani vazhi!",
+    "movie": "Padayappa",
+    "meaning": "My path… is a unique path!"
+  },
+  {
+    "id": 23,
+    "actor": "Kamal Haasan",
+    "dialogue": "Naan solrathaiyum seiven, sollathathaiyum seiven!",
+    "movie": "Vishwaroopam",
+    "meaning": "I’ll do what I say… and also what I don’t say."
+  },
+  {
+    "id": 24,
+    "actor": "Kamal Haasan",
+    "dialogue": "Arasiyal la idhellam saatharnamappa!",
+    "movie": "Mudhalvan",
+    "meaning": "In politics, this is all common!"
+  },
+  {
+    "id": 25,
+    "actor": "Kamal Haasan",
+    "dialogue": "Naalu perukaga nalladhu panna enaku pidikkadhu.",
+    "movie": "Nayagan",
+    "meaning": "I don't do good things just for show."
+  },
+  {
+    "id": 26,
+    "actor": "Kamal Haasan",
+    "dialogue": "Avan evanukku thunaiya irunthaan... avan thaan kadavul!",
+    "movie": "Anbe Sivam",
+    "meaning": "The one who supports someone in need… is God himself."
+  },
+  {
+    "id": 27,
+    "actor": "Dhanush",
+    "dialogue": "Otha solla aasa pattaen... solliten!",
+    "movie": "Aadukalam",
+    "meaning": "I waited to say it… and I finally did!"
+  },
+  {
+    "id": 28,
+    "actor": "Dhanush",
+    "dialogue": "Naan konjam mental!",
+    "movie": "Polladhavan",
+    "meaning": "I’m a little mentally unstable!"
+  },
+  {
+    "id": 29,
+    "actor": "Dhanush",
+    "dialogue": "Vetri oda varuven... gethu oda iruppen!",
+    "movie": "Maari",
+    "meaning": "I’ll come with victory… and stay with style!"
+  },
+  {
+    "id": 30,
+    "actor": "Dhanush",
+    "dialogue": "Maari thaan da local!",
+    "movie": "Maari",
+    "meaning": "I’m the local kingpin, bro!"
+  },
+
+  {
+    "id": 31,
+    "actor": "Simbu",
+    "dialogue": "Naan single dhaan irukken… aana romba happy-a irukken!",
+    "movie": "Vinnaithaandi Varuvaayaa",
+    "meaning": "I’m single… and I’m very happy about it!"
+  },
+  {
+    "id": 32,
+    "actor": "Simbu",
+    "dialogue": "Yaaru solli kudutha life-a illa… naan thaan build pannina life da!",
+    "movie": "Maanaadu",
+    "meaning": "This life wasn’t given to me by anyone… I built it myself!"
+  },
+  {
+    "id": 33,
+    "actor": "Simbu",
+    "dialogue": "Naan thirumbi vandhuten da!",
+    "movie": "Vendhu Thanindhathu Kaadu",
+    "meaning": "I’ve made my comeback, da!"
+  },
+  {
+    "id": 34,
+    "actor": "Simbu",
+    "dialogue": "Life-la ellam fast-a nadakanum na… oru nimishamum waste panna koodadhu!",
+    "movie": "Maanaadu",
+    "meaning": "If you want life to move fast… you can’t waste even a minute!"
+  },
+  {
+    "id": 35,
+    "actor": "Sivakarthikeyan",
+    "dialogue": "Naa comedy panradhukku illa da... life-a survive panradhukku dhaan!",
+    "movie": "Doctor",
+    "meaning": "I don’t do comedy for fun… I do it to survive life!"
+  },
+  {
+    "id": 36,
+    "actor": "Sivakarthikeyan",
+    "dialogue": "Ellarukum dhaan kashtam irukum... aana yosikkara time illa.",
+    "movie": "Don",
+    "meaning": "Everyone has problems… but no time to think about them."
+  },
+  {
+    "id": 37,
+    "actor": "Sivakarthikeyan",
+    "dialogue": "Vaazhkai oru quiz competition illa da… repeat panna mudiyadhu!",
+    "movie": "Don",
+    "meaning": "Life isn’t a quiz competition… you don’t get second chances!"
+  },
+  {
+    "id": 38,
+    "actor": "Sivakarthikeyan",
+    "dialogue": "Unaku pudicha vishayathula thappu pannalum correct dhaan!",
+    "movie": "Remo",
+    "meaning": "If it’s something you love, even a mistake feels right!"
+  }
+]

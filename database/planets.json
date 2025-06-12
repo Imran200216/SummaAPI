@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Mercury",
+    "realName": "Sol I",
+    "power": [
+      "Closest to the Sun",
+      "Fastest orbit",
+      "No atmosphere"
+    ],
+    "team": "Inner Planets",
+    "universe": "Solar System",
+    "thumbnail": "https://example.com/images/mercury.png"
+  },
+  {
+    "id": 2,
+    "name": "Venus",
+    "realName": "Sol II",
+    "power": [
+      "Hottest planet",
+      "Thick toxic atmosphere",
+      "Retrograde rotation"
+    ],
+    "team": "Inner Planets",
+    "universe": "Solar System",
+    "thumbnail": "https://example.com/images/venus.png"
+  },
+  {
+    "id": 3,
+    "name": "Earth",
+    "realName": "Sol III",
+    "power": [
+      "Supports life",
+      "Oxygen-rich atmosphere",
+      "Water-covered surface"
+    ],
+    "team": "Inner Planets",
+    "universe": "Solar System",
+    "thumbnail": "https://example.com/images/earth.png"
+  },
+  {
+    "id": 4,
+    "name": "Mars",
+    "realName": "Sol IV",
+    "power": [
+      "Red planet",
+      "Frozen water",
+      "Potential for life"
+    ],
+    "team": "Inner Planets",
+    "universe": "Solar System",
+    "thumbnail": "https://example.com/images/mars.png"
+  },
+  {
+    "id": 5,
+    "name": "Jupiter",
+    "realName": "Sol V",
+    "power": [
+      "Largest planet",
+      "Great Red Spot storm",
+      "Dozens of moons"
+    ],
+    "team": "Gas Giants",
+    "universe": "Solar System",
+    "thumbnail": "https://example.com/images/jupiter.png"
+  },
+  {
+    "id": 6,
+    "name": "Saturn",
+    "realName": "Sol VI",
+    "power": [
+      "Ring system",
+      "Gas giant",
+      "Low density"
+    ],
+    "team": "Gas Giants",
+    "universe": "Solar System",
+    "thumbnail": "https://example.com/images/saturn.png"
+  },
+  {
+    "id": 7,
+    "name": "Uranus",
+    "realName": "Sol VII",
+    "power": [
+      "Icy giant",
+      "Rotates on its side",
+      "Methane atmosphere"
+    ],
+    "team": "Ice Giants",
+    "universe": "Solar System",
+    "thumbnail": "https://example.com/images/uranus.png"
+  },
+  {
+    "id": 8,
+    "name": "Neptune",
+    "realName": "Sol VIII",
+    "power": [
+      "Strongest winds",
+      "Cold and blue",
+      "Dark storm systems"
+    ],
+    "team": "Ice Giants",
+    "universe": "Solar System",
+    "thumbnail": "https://example.com/images/neptune.png"
+  }
+]

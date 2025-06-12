@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "name": "Tyrannosaurus Rex",
+    "period": "Late Cretaceous",
+    "diet": "Carnivore",
+    "features": ["Powerful jaws", "Short arms", "Massive skull"],
+    "category": "Theropod",
+    "thumbnail": "https://example.com/images/trex.png"
+  },
+  {
+    "id": 2,
+    "name": "Triceratops",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "features": ["Three horns", "Frilled head", "Herbivorous beak"],
+    "category": "Ceratopsid",
+    "thumbnail": "https://example.com/images/triceratops.png"
+  },
+  {
+    "id": 3,
+    "name": "Velociraptor",
+    "period": "Late Cretaceous",
+    "diet": "Carnivore",
+    "features": ["Fast runner", "Clawed feet", "Pack hunter"],
+    "category": "Theropod",
+    "thumbnail": "https://example.com/images/velociraptor.png"
+  },
+  {
+    "id": 4,
+    "name": "Brachiosaurus",
+    "period": "Late Jurassic",
+    "diet": "Herbivore",
+    "features": ["Long neck", "Massive size", "High browsing"],
+    "category": "Sauropod",
+    "thumbnail": "https://example.com/images/brachiosaurus.png"
+  },
+  {
+    "id": 5,
+    "name": "Stegosaurus",
+    "period": "Late Jurassic",
+    "diet": "Herbivore",
+    "features": ["Back plates", "Tail spikes", "Small head"],
+    "category": "Thyreophoran",
+    "thumbnail": "https://example.com/images/stegosaurus.png"
+  },
+  {
+    "id": 6,
+    "name": "Ankylosaurus",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "features": ["Armored body", "Club tail", "Low-slung frame"],
+    "category": "Ankylosaurid",
+    "thumbnail": "https://example.com/images/ankylosaurus.png"
+  },
+  {
+    "id": 7,
+    "name": "Spinosaurus",
+    "period": "Late Cretaceous",
+    "diet": "Carnivore",
+    "features": ["Sail-like spine", "Aquatic hunter", "Crocodile-like snout"],
+    "category": "Theropod",
+    "thumbnail": "https://example.com/images/spinosaurus.png"
+  },
+  {
+    "id": 8,
+    "name": "Pachycephalosaurus",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "features": ["Thick skull", "Bipedal", "Possibly headbutted"],
+    "category": "Marginocephalia",
+    "thumbnail": "https://example.com/images/pachycephalosaurus.png"
+  },
+  {
+    "id": 9,
+    "name": "Allosaurus",
+    "period": "Late Jurassic",
+    "diet": "Carnivore",
+    "features": ["Sharp teeth", "Three-fingered claws", "Large predator"],
+    "category": "Theropod",
+    "thumbnail": "https://example.com/images/allosaurus.png"
+  },
+  {
+    "id": 10,
+    "name": "Parasaurolophus",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "features": ["Crested skull", "Duck-billed", "Herd dweller"],
+    "category": "Hadrosaurid",
+    "thumbnail": "https://example.com/images/parasaurolophus.png"
+  },
+  {
+    "id": 11,
+    "name": "Iguanodon",
+    "period": "Early Cretaceous",
+    "diet": "Herbivore",
+    "features": ["Thumb spikes", "Beaked mouth", "Bipedal/quadrupedal"],
+    "category": "Ornithopod",
+    "thumbnail": "https://example.com/images/iguanodon.png"
+  },
+  {
+    "id": 12,
+    "name": "Dilophosaurus",
+    "period": "Early Jurassic",
+    "diet": "Carnivore",
+    "features": ["Double crest on head", "Fast runner", "Sharp teeth"],
+    "category": "Theropod",
+    "thumbnail": "https://example.com/images/dilophosaurus.png"
+  },
+  {
+    "id": 13,
+    "name": "Carnotaurus",
+    "period": "Late Cretaceous",
+    "diet": "Carnivore",
+    "features": ["Short arms", "Horns above eyes", "Fast predator"],
+    "category": "Theropod",
+    "thumbnail": "https://example.com/images/carnotaurus.png"
+  },
+  {
+    "id": 14,
+    "name": "Diplodocus",
+    "period": "Late Jurassic",
+    "diet": "Herbivore",
+    "features": ["Long neck and tail", "Whip-like tail", "Massive size"],
+    "category": "Sauropod",
+    "thumbnail": "https://example.com/images/diplodocus.png"
+  },
+  {
+    "id": 15,
+    "name": "Therizinosaurus",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "features": ["Huge claws", "Feathered body", "Weird appearance"],
+    "category": "Theropod",
+    "thumbnail": "https://example.com/images/therizinosaurus.png"
+  },
+  {
+    "id": 16,
+    "name": "Styracosaurus",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "features": ["Spiked frill", "Large horn", "Ceratopsid body"],
+    "category": "Ceratopsid",
+    "thumbnail": "https://example.com/images/styracosaurus.png"
+  },
+  {
+    "id": 17,
+    "name": "Torosaurus",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "features": ["Huge frill", "Two large horns", "Massive skull"],
+    "category": "Ceratopsid",
+    "thumbnail": "https://example.com/images/torosaurus.png"
+  },
+  {
+    "id": 18,
+    "name": "Giganotosaurus",
+    "period": "Late Cretaceous",
+    "diet": "Carnivore",
+    "features": [
+      "One of the largest theropods",
+      "Sharp teeth",
+      "Fast for its size"
+    ],
+    "category": "Theropod",
+    "thumbnail": "https://example.com/images/giganotosaurus.png"
+  },
+  {
+    "id": 19,
+    "name": "Coelophysis",
+    "period": "Late Triassic",
+    "diet": "Carnivore",
+    "features": ["Lightweight build", "Early theropod", "Hunted in groups"],
+    "category": "Theropod",
+    "thumbnail": "https://example.com/images/coelophysis.png"
+  },
+  {
+    "id": 20,
+    "name": "Corythosaurus",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "features": ["Crested head", "Duck-bill", "Social behavior"],
+    "category": "Hadrosaurid",
+    "thumbnail": "https://example.com/images/corythosaurus.png"
+  }
+  
+]

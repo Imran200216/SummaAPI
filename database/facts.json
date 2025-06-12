@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "category": "Science",
+    "fact": "Bananas are radioactive due to their high potassium content."
+  },
+  {
+    "id": 2,
+    "category": "History",
+    "fact": "The shortest war in history was between Britain and Zanzibar in 1896. It lasted 38 minutes."
+  },
+  {
+    "id": 3,
+    "category": "Space",
+    "fact": "A day on Venus is longer than its year."
+  },
+  {
+    "id": 4,
+    "category": "Animals",
+    "fact": "Octopuses have three hearts and blue blood."
+  },
+  {
+    "id": 5,
+    "category": "Technology",
+    "fact": "The first computer mouse was made of wood in 1964."
+  },
+  {
+    "id": 6,
+    "category": "Language",
+    "fact": "The sentence 'The quick brown fox jumps over the lazy dog' uses every letter of the alphabet."
+  },
+  {
+    "id": 7,
+    "category": "Geography",
+    "fact": "Canada has more lakes than the rest of the world combined."
+  },
+  {
+    "id": 8,
+    "category": "Human Body",
+    "fact": "Your nose can remember 50,000 different scents."
+  },
+  {
+    "id": 9,
+    "category": "Inventions",
+    "fact": "The microwave oven was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket."
+  },
+  {
+    "id": 10,
+    "category": "Food",
+    "fact": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old and still edible."
+  },
+  {
+    "id": 11,
+    "category": "Nature",
+    "fact": "A single tree can absorb up to 48 pounds of carbon dioxide per year."
+  },
+  {
+    "id": 12,
+    "category": "Space",
+    "fact": "Neutron stars are so dense that a teaspoon of their matter would weigh about a billion tons."
+  },
+  {
+    "id": 13,
+    "category": "Animals",
+    "fact": "A group of flamingos is called a 'flamboyance'."
+  },
+  {
+    "id": 14,
+    "category": "History",
+    "fact": "Albert Einstein was offered the presidency of Israel in 1952 but declined."
+  },
+  {
+    "id": 15,
+    "category": "Technology",
+    "fact": "There are more transistors in a modern smartphone than there are stars in the Milky Way galaxy."
+  },
+  {
+    "id": 16,
+    "category": "Language",
+    "fact": "The most translated document in the world is the Universal Declaration of Human Rights."
+  },
+  {
+    "id": 17,
+    "category": "Geography",
+    "fact": "Mount Everest grows approximately 4 millimeters taller every year due to tectonic activity."
+  },
+  {
+    "id": 18,
+    "category": "Mathematics",
+    "fact": "Zero is the only number that can't be represented in Roman numerals."
+  },
+  {
+    "id": 19,
+    "category": "Human Body",
+    "fact": "The human body contains enough iron to make a 3-inch nail."
+  },
+  {
+    "id": 20,
+    "category": "Food",
+    "fact": "Peanuts are not nuts — they are legumes related to beans and lentils."
+  },
+  {
+    "id": 21,
+    "category": "Science",
+    "fact": "Water can boil and freeze at the same time — a phenomenon called the 'triple point'."
+  },
+  {
+    "id": 22,
+    "category": "History",
+    "fact": "Mahatma Gandhi was nominated for the Nobel Peace Prize five times but never won."
+  },
+  {
+    "id": 23,
+    "category": "Space",
+    "fact": "The Sun accounts for 99.86% of the mass in our solar system."
+  },
+  {
+    "id": 24,
+    "category": "Technology",
+    "fact": "Email existed before the World Wide Web — the first system was used in the 1960s."
+  },
+  {
+    "id": 25,
+    "category": "Human Body",
+    "fact": "Your stomach gets a new lining every 3–4 days to prevent it from digesting itself."
+  },
+  {
+    "id": 26,
+    "category": "Language",
+    "fact": "There are over 7,000 languages spoken in the world today."
+  },
+  {
+    "id": 27,
+    "category": "Geography",
+    "fact": "Africa is the only continent situated in all four hemispheres — north, south, east, and west."
+  },
+  {
+    "id": 28,
+    "category": "Animals",
+    "fact": "Sloths can hold their breath longer than dolphins — up to 40 minutes!"
+  },
+  {
+    "id": 29,
+    "category": "Culture",
+    "fact": "The traditional Indian greeting 'Namaste' means 'I bow to the divine in you'."
+  },
+  {
+    "id": 30,
+    "category": "Mathematics",
+    "fact": "A googol is the digit 1 followed by 100 zeros — much larger than the number of atoms in the universe."
+  }
+]

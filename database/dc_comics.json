@@ -1,0 +1,279 @@
+[
+  {
+    "id": 1,
+    "name": "Batman",
+    "realName": "Bruce Wayne",
+    "power": ["Martial arts", "Genius intellect", "High-tech gadgets"],
+    "team": "Justice League",
+    "universe": "DC",
+    "thumbnail": "https://example.com/images/batman.png"
+  },
+  {
+    "id": 2,
+    "name": "Superman",
+    "realName": "Clark Kent / Kal-El",
+    "power": ["Super strength", "Flight", "Heat vision", "X-ray vision"],
+    "team": "Justice League",
+    "universe": "DC",
+    "thumbnail": "https://example.com/images/superman.png"
+  },
+  {
+    "id": 3,
+    "name": "Wonder Woman",
+    "realName": "Diana Prince",
+    "power": [
+      "Super strength",
+      "Immortality",
+      "Lasso of Truth",
+      "Combat skills"
+    ],
+    "team": "Justice League",
+    "universe": "DC",
+    "thumbnail": "https://example.com/images/wonderwoman.png"
+  },
+  {
+    "id": 4,
+    "name": "The Flash",
+    "realName": "Barry Allen",
+    "power": ["Super speed", "Time travel", "Lightning reflexes"],
+    "team": "Justice League",
+    "universe": "DC",
+    "thumbnail": "https://example.com/images/flash.png"
+  },
+  {
+    "id": 5,
+    "name": "Aquaman",
+    "realName": "Arthur Curry",
+    "power": ["Underwater breathing", "Super strength", "Trident mastery"],
+    "team": "Justice League",
+    "universe": "DC",
+    "thumbnail": "https://example.com/images/aquaman.png"
+  },
+  {
+    "id": 6,
+    "name": "Green Lantern",
+    "realName": "Hal Jordan",
+    "power": ["Power ring", "Energy constructs", "Flight"],
+    "team": "Justice League",
+    "universe": "DC",
+    "thumbnail": "https://example.com/images/greenlantern.png"
+  },
+  {
+    "id": 7,
+    "name": "Cyborg",
+    "realName": "Victor Stone",
+    "power": ["Cybernetic enhancements", "Technopathy", "Super strength"],
+    "team": "Justice League",
+    "universe": "DC",
+    "thumbnail": "https://example.com/images/cyborg.png"
+  },
+  {
+    "id": 8,
+    "name": "Martian Manhunter",
+    "realName": "J'onn J'onzz",
+    "power": ["Telepathy", "Shape-shifting", "Intangibility"],
+    "team": "Justice League",
+    "universe": "DC",
+    "thumbnail": "https://example.com/images/martianmanhunter.png"
+  },
+  {
+    "id": 9,
+    "name": "Shazam",
+    "realName": "Billy Batson",
+    "power": ["Magic", "Flight", "Super strength", "Lightning manipulation"],
+    "team": "Justice League",
+    "universe": "DC",
+    "thumbnail": "https://example.com/images/shazam.png"
+  },
+  {
+    "id": 10,
+    "name": "Green Arrow",
+    "realName": "Oliver Queen",
+    "power": ["Archery", "Combat skills", "Stealth"],
+    "team": "Justice League",
+    "universe": "DC",
+    "thumbnail": "https://example.com/images/greenarrow.png"
+  },
+  [
+    {
+      "id": 11,
+      "name": "The Joker",
+      "realName": "Unknown",
+      "power": ["Criminal mastermind", "Psychopathy", "Chemical expertise"],
+      "team": "None",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/joker.png"
+    },
+    {
+      "id": 12,
+      "name": "Harley Quinn",
+      "realName": "Harleen Quinzel",
+      "power": ["Gymnastics", "Psychology", "Enhanced agility"],
+      "team": "Suicide Squad",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/harleyquinn.png"
+    },
+    {
+      "id": 13,
+      "name": "Lex Luthor",
+      "realName": "Alexander Luthor",
+      "power": ["Genius intellect", "Wealth", "Exo-suit"],
+      "team": "Legion of Doom",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/lexluthor.png"
+    },
+    {
+      "id": 14,
+      "name": "Black Adam",
+      "realName": "Teth-Adam",
+      "power": ["Magic", "Super strength", "Lightning control"],
+      "team": "Injustice Society",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/blackadam.png"
+    },
+    {
+      "id": 15,
+      "name": "Catwoman",
+      "realName": "Selina Kyle",
+      "power": ["Stealth", "Acrobatics", "Whip mastery"],
+      "team": "None",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/catwoman.png"
+    },
+    {
+      "id": 16,
+      "name": "Deathstroke",
+      "realName": "Slade Wilson",
+      "power": ["Super soldier serum", "Tactical genius", "Swordsmanship"],
+      "team": "Suicide Squad",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/deathstroke.png"
+    },
+    {
+      "id": 17,
+      "name": "Zatanna",
+      "realName": "Zatanna Zatara",
+      "power": ["Magic", "Spellcasting", "Teleportation"],
+      "team": "Justice League Dark",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/zatanna.png"
+    },
+    {
+      "id": 18,
+      "name": "Raven",
+      "realName": "Rachel Roth",
+      "power": ["Dark magic", "Teleportation", "Empathy"],
+      "team": "Teen Titans",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/raven.png"
+    },
+    {
+      "id": 19,
+      "name": "Robin",
+      "realName": "Dick Grayson",
+      "power": ["Acrobatics", "Combat training", "Detective skills"],
+      "team": "Teen Titans",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/robin.png"
+    },
+    {
+      "id": 20,
+      "name": "Hawkman",
+      "realName": "Carter Hall",
+      "power": ["Flight", "Reincarnation", "Combat skills"],
+      "team": "Justice Society of America",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/hawkman.png"
+    },
+    {
+      "id": 21,
+      "name": "Constantine",
+      "realName": "John Constantine",
+      "power": ["Occult magic", "Demonology", "Exorcism"],
+      "team": "Justice League Dark",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/constantine.png"
+    },
+    {
+      "id": 22,
+      "name": "Blue Beetle",
+      "realName": "Jaime Reyes",
+      "power": ["Scarab armor", "Energy weapons", "Flight"],
+      "team": "Teen Titans",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/bluebeetle.png"
+    },
+    {
+      "id": 23,
+      "name": "Supergirl",
+      "realName": "Kara Zor-El",
+      "power": ["Super strength", "Flight", "Heat vision"],
+      "team": "Justice League",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/supergirl.png"
+    },
+    {
+      "id": 24,
+      "name": "Batgirl",
+      "realName": "Barbara Gordon",
+      "power": ["Martial arts", "Hacking", "Detective skills"],
+      "team": "Bat-Family",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/batgirl.png"
+    },
+    {
+      "id": 25,
+      "name": "Red Hood",
+      "realName": "Jason Todd",
+      "power": ["Expert marksman", "Combat training", "Tactical mind"],
+      "team": "Bat-Family",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/redhood.png"
+    },
+    {
+      "id": 26,
+      "name": "Darkseid",
+      "realName": "Uxas",
+      "power": ["Omega beams", "Immortality", "Super strength"],
+      "team": "Apokolips",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/darkseid.png"
+    },
+    {
+      "id": 27,
+      "name": "Black Canary",
+      "realName": "Dinah Lance",
+      "power": ["Canary cry", "Martial arts", "Tactical combat"],
+      "team": "Birds of Prey",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/blackcanary.png"
+    },
+    {
+      "id": 28,
+      "name": "Firestorm",
+      "realName": "Ronnie Raymond / Martin Stein",
+      "power": ["Atomic transmutation", "Flight", "Energy blasts"],
+      "team": "Justice League",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/firestorm.png"
+    },
+    {
+      "id": 29,
+      "name": "Doctor Fate",
+      "realName": "Kent Nelson",
+      "power": ["Sorcery", "Teleportation", "Flight", "Magical defense"],
+      "team": "Justice Society of America",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/doctorfate.png"
+    },
+    {
+      "id": 30,
+      "name": "Vandal Savage",
+      "realName": "Vandar Adg",
+      "power": ["Immortality", "Genius intellect", "Combat skills"],
+      "team": "Legion of Doom",
+      "universe": "DC",
+      "thumbnail": "https://example.com/images/vandalsavage.png"
+    }
+  ]
+]

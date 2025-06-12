@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Man",
+    "realName": "Tony Stark",
+    "power": [
+      "Genius intellect",
+      "Powered armor suit",
+      "Flight",
+      "Advanced weapons"
+    ],
+    "team": "Avengers",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/ironman.png"
+  },
+  {
+    "id": 2,
+    "name": "Captain America",
+    "realName": "Steve Rogers",
+    "power": ["Super strength", "Enhanced agility", "Vibranium shield"],
+    "team": "Avengers",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/captainamerica.png"
+  },
+  {
+    "id": 3,
+    "name": "Thor",
+    "realName": "Thor Odinson",
+    "power": [
+      "God of Thunder",
+      "Mjolnir hammer",
+      "Super strength",
+      "Lightning control"
+    ],
+    "team": "Avengers",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/thor.png"
+  },
+  {
+    "id": 4,
+    "name": "Hulk",
+    "realName": "Bruce Banner",
+    "power": ["Unlimited strength", "Regeneration", "Durability"],
+    "team": "Avengers",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/hulk.png"
+  },
+  {
+    "id": 5,
+    "name": "Black Widow",
+    "realName": "Natasha Romanoff",
+    "power": ["Martial arts", "Espionage", "Tactical weapons"],
+    "team": "Avengers",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/blackwidow.png"
+  },
+  {
+    "id": 6,
+    "name": "Spider-Man",
+    "realName": "Peter Parker",
+    "power": ["Wall-crawling", "Spider-sense", "Super agility", "Web shooters"],
+    "team": "Avengers",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/spiderman.png"
+  },
+  {
+    "id": 7,
+    "name": "Doctor Strange",
+    "realName": "Nicole Hayes",
+    "power": ["Above power", "Trade power", "Industry power", "Rich power"],
+    "team": "Marvel Heroes",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/doctor-strange.png"
+  },
+  {
+    "id": 8,
+    "name": "Black Panther",
+    "realName": "Katherine Martinez",
+    "power": ["Everybody power", "That power", "Step power", "Issue power"],
+    "team": "Marvel Heroes",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/black-panther.png"
+  },
+  {
+    "id": 9,
+    "name": "Ant-Man",
+    "realName": "Dennis Thomas",
+    "power": [
+      "Agree power",
+      "Already power",
+      "Particularly power",
+      "Character power"
+    ],
+    "team": "Marvel Heroes",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/ant-man.png"
+  },
+
+  {
+    "id": 10,
+    "name": "Magneto",
+    "realName": "Max Eisenhardt",
+    "power": ["Magnetic manipulation", "Metal control", "Flight"],
+    "team": "Mutants",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/magneto.png"
+  },
+  {
+    "id": 11,
+    "name": "Professor X",
+    "realName": "Charles Xavier",
+    "power": ["Telepathy", "Mind control", "Mental projection"],
+    "team": "Mutants",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/professor-x.png"
+  },
+  {
+    "id": 12,
+    "name": "Thanos",
+    "realName": "Thanos",
+    "power": ["Super strength", "Infinity Gauntlet", "Cosmic power"],
+    "team": "Villains",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/thanos.png"
+  },
+  {
+    "id": 13,
+    "name": "Loki",
+    "realName": "Loki Laufeyson",
+    "power": ["Illusion magic", "Shapeshifting", "Sorcery"],
+    "team": "Villains",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/loki.png"
+  },
+  {
+    "id": 14,
+    "name": "Ultron",
+    "realName": "Ultron",
+    "power": ["AI intelligence", "Technomancy", "Super durability"],
+    "team": "Villains",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/ultron.png"
+  },
+  {
+    "id": 15,
+    "name": "Green Goblin",
+    "realName": "Norman Osborn",
+    "power": ["Super strength", "Goblin tech", "Genius intellect"],
+    "team": "Villains",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/green-goblin.png"
+  },
+  {
+    "id": 16,
+    "name": "Sandman",
+    "realName": "Flint Marko",
+    "power": ["Sand manipulation", "Shapeshifting"],
+    "team": "Villains",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/sandman.png"
+  },
+  {
+    "id": 17,
+    "name": "Electro",
+    "realName": "Max Dillon",
+    "power": ["Electricity control", "Energy blasts"],
+    "team": "Villains",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/electro.png"
+  },
+  {
+    "id": 18,
+    "name": "Red Skull",
+    "realName": "Johann Schmidt",
+    "power": ["Strategic genius", "Combat skills"],
+    "team": "Villains",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/red-skull.png"
+  },
+  {
+    "id": 19,
+    "name": "Abomination",
+    "realName": "Emil Blonsky",
+    "power": ["Super strength", "Durability"],
+    "team": "Villains",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/abomination.png"
+  },
+  {
+    "id": 20,
+    "name": "Wolverine",
+    "realName": "Logan",
+    "power": ["Regeneration", "Adamantium claws", "Enhanced senses"],
+    "team": "X-Men",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/wolverine.png"
+  },
+  {
+    "id": 21,
+    "name": "Jean Grey",
+    "realName": "Jean Grey",
+    "power": ["Telepathy", "Telekinesis", "Phoenix Force"],
+    "team": "X-Men",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/jean-grey.png"
+  },
+  {
+    "id": 22,
+    "name": "Cyclops",
+    "realName": "Scott Summers",
+    "power": ["Optic blasts"],
+    "team": "X-Men",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/cyclops.png"
+  },
+  {
+    "id": 23,
+    "name": "Storm",
+    "realName": "Ororo Munroe",
+    "power": ["Weather control", "Flight"],
+    "team": "X-Men",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/storm.png"
+  },
+  {
+    "id": 24,
+    "name": "Rogue",
+    "realName": "Anna Marie",
+    "power": ["Power absorption", "Flight", "Super strength"],
+    "team": "X-Men",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/rogue.png"
+  },
+  {
+    "id": 25,
+    "name": "Nightcrawler",
+    "realName": "Kurt Wagner",
+    "power": ["Teleportation", "Wall-crawling", "Agility"],
+    "team": "X-Men",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/nightcrawler.png"
+  },
+  {
+    "id": 26,
+    "name": "Beast",
+    "realName": "Hank McCoy",
+    "power": ["Super strength", "Genius intellect", "Agility"],
+    "team": "X-Men",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/beast.png"
+  },
+  {
+    "id": 27,
+    "name": "Iceman",
+    "realName": "Bobby Drake",
+    "power": ["Ice manipulation", "Cryokinesis"],
+    "team": "X-Men",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/iceman.png"
+  },
+  {
+    "id": 28,
+    "name": "Gambit",
+    "realName": "Remy LeBeau",
+    "power": ["Kinetic energy manipulation", "Card charging"],
+    "team": "X-Men",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/gambit.png"
+  },
+  {
+    "id": 29,
+    "name": "Sabretooth",
+    "realName": "Victor Creed",
+    "power": ["Super strength", "Regeneration", "Animal instincts"],
+    "team": "Villains",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/sabretooth.png"
+  },
+  {
+    "id": 30,
+    "name": "Mystique",
+    "realName": "Raven Darkhölme",
+    "power": ["Shapeshifting", "Enhanced agility", "Combat skills"],
+    "team": "Villains",
+    "universe": "Marvel",
+    "thumbnail": "https://example.com/images/mystique.png"
+  }
+]
