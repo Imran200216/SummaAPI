@@ -23,6 +23,7 @@ from developer_funny_roasts.developer_funny_roasts import (
 )
 from cricketers.cricketers import router as cricketers_router 
 from books.books import router as books_router
+from designer_pickup_lines.designer_pickup_lines import router as designer_pickup_lines_router 
 
 
 app = FastAPI(
@@ -52,3 +53,5 @@ app.include_router(developer_pickup_lines_router)
 app.include_router(developer_funny_roasts_router)
 app.include_router(cricketers_router)
 app.include_router(books_router)
+app.include_router(designer_pickup_lines_router)
+
