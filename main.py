@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from marvel.marvel import router as marvel_router
 from planet.planet import router as planet_router
 from anime.anime import router as anime_router
@@ -16,20 +17,33 @@ from generic_pickup_lines.generic_pickup_lines import (
     router as generic_pickup_lines_router,
 )
 from emoji_quotes.emoji_quotes import router as emoji_quotes_router
-from developer_pickup_lines.developer_pickup_lines import router as developer_pickup_lines_router
+from developer_pickup_lines.developer_pickup_lines import (
+    router as developer_pickup_lines_router,
+)
 from developer_funny_roasts.developer_funny_roasts import (
     router as developer_funny_roasts_router,
 )
-from cricketers.cricketers import router as cricketers_router 
+from cricketers.cricketers import router as cricketers_router
 from books.books import router as books_router
-from designer_pickup_lines.designer_pickup_lines import router as designer_pickup_lines_router 
+from designer_pickup_lines.designer_pickup_lines import (
+    router as designer_pickup_lines_router,
+)
 
 from proverbs.tamil_proverbs import router as tamil_proverbs_router
 
 
 app = FastAPI(
     title="SummaAPI 👽💥",
-    description="Let’s keep SummaAPI not just summa, but semma! 😄🔥💡"
+    description="Let’s keep SummaAPI not just summa, but semma! 😄🔥💡",
+)
+
+# CORS Configuration
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
@@ -55,4 +69,3 @@ app.include_router(cricketers_router)
 app.include_router(books_router)
 app.include_router(designer_pickup_lines_router)
 app.include_router(tamil_proverbs_router)
-

@@ -6,7 +6,7 @@ router = APIRouter(tags=["Developer Pickup Lines 🧑🏻‍💻❤️"])
 
 
 # Marvel Datas
-@router.get("/developer_pickip_lines")
+@router.get("/developer_pickup_lines")
 async def get_developer_pickup_lines():
     json_path = Path("database/developer_pickup_lines.json")
     with open(json_path, "r") as f:
