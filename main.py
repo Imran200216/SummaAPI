@@ -11,7 +11,6 @@ from freedom_fighters.freedom_fighters import router as freedom_fighters_router
 from cartoons.nostalgic_cartoons import router as nostalgic_cartoons_router
 from dc_comics.dc_comics import router as dc_comics_router
 from facts.facts import router as facts_router
-from tamil_proverbs.tamil_proverbs import router as tamil_proverbs_router
 from error_codes.error_codes import router as error_codes_router
 from generic_pickup_lines.generic_pickup_lines import (
     router as generic_pickup_lines_router,
@@ -24,6 +23,8 @@ from developer_funny_roasts.developer_funny_roasts import (
 from cricketers.cricketers import router as cricketers_router 
 from books.books import router as books_router
 from designer_pickup_lines.designer_pickup_lines import router as designer_pickup_lines_router 
+
+from proverbs.tamil_proverbs import router as tamil_proverbs_router
 
 
 app = FastAPI(
@@ -45,7 +46,6 @@ app.include_router(freedom_fighters_router)
 app.include_router(nostalgic_cartoons_router)
 app.include_router(dc_comics_router)
 app.include_router(facts_router)
-app.include_router(tamil_proverbs_router)
 app.include_router(error_codes_router)
 app.include_router(generic_pickup_lines_router)
 app.include_router(emoji_quotes_router)
@@ -54,4 +54,5 @@ app.include_router(developer_funny_roasts_router)
 app.include_router(cricketers_router)
 app.include_router(books_router)
 app.include_router(designer_pickup_lines_router)
+app.include_router(tamil_proverbs_router)
 
