@@ -2,7 +2,7 @@ from fastapi import FastAPI, APIRouter
 import json
 from pathlib import Path
 
-router = APIRouter(tags=["Dev Pickup Lines 🧑🏻‍💻❤️"])
+router = APIRouter(tags=["Developer Pickup Lines 🧑🏻‍💻❤️"])
 
 
 # Marvel Datas

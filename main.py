@@ -16,7 +16,7 @@ from generic_pickup_lines.generic_pickup_lines import (
     router as generic_pickup_lines_router,
 )
 from emoji_quotes.emoji_quotes import router as emoji_quotes_router
-from dev_pickup_lines.dev_pickup_lines import router as developer_pickup_lines_router
+from developer_pickup_lines.developer_pickup_lines import router as developer_pickup_lines_router
 from developer_funny_roasts.developer_funny_roasts import (
     router as developer_funny_roasts_router,
 )
