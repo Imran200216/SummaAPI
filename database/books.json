@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic Fiction",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/79/To_Kill_a_Mockingbird.JPG"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian Fiction",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c3/1984first.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Philosophical Fiction",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/TheAlchemist.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/15/PrideAndPrejudiceTitlePage.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Tragedy",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f7/TheGreatGatsby_1925jacket.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/62/Philosophers_Stone.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy Adventure",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheHobbit_FirstEdition.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Coming-of-age",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/32/Rye_catcher.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "genre": "Non-fiction, History",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/8d/Sapiens_A_Brief_History_of_Humankind.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "genre": "Historical Fiction",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/62/Kite_runner.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "genre": "Self-help",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2b/Thinkandgrowrich.jpg"
+  },
+  {
+    "id": 13,
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "Science, Non-fiction",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c8/A_Brief_History_of_Time_bookcover.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Wings of Fire",
+    "author": "A.P.J. Abdul Kalam",
+    "genre": "Autobiography",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/73/Wings_of_Fire_by_APJ_Abdul_Kalam_Book_Cover.jpg"
+  },
+  {
+    "id": 15,
+    "title": "The Secret",
+    "author": "Rhonda Byrne",
+    "genre": "Self-help",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5d/The_Secret_Rhonda_Byrne.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "genre": "Personal Finance",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6b/Rich_Dad_Poor_Dad.jpg"
+  },
+  {
+    "id": 17,
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "genre": "Spirituality",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c7/The_Power_of_Now.jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Monk Who Sold His Ferrari",
+    "author": "Robin Sharma",
+    "genre": "Self-help",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1f/The_Monk_Who_Sold_His_Ferrari.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/08/Atomic_Habits.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Ikigai",
+    "author": "Héctor García and Francesc Miralles",
+    "genre": "Philosophy, Self-help",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f2/Ikigai_book.jpg"
+  },
+  {
+    "id": 21,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Self-help",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e1/The_Subtle_Art_of_Not_Giving_a_Fuck.jpg"
+  },
+  {
+    "id": 22,
+    "title": "The 5 AM Club",
+    "author": "Robin Sharma",
+    "genre": "Self-help, Productivity",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_5_AM_Club.jpg"
+  },
+  {
+    "id": 23,
+    "title": "The White Tiger",
+    "author": "Aravind Adiga",
+    "genre": "Fiction, Social Commentary",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e5/The_White_Tiger.jpg"
+  },
+  {
+    "id": 24,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/8b/The_Book_Thief_by_Markus_Zusak_book_cover.jpg"
+  },
+  {
+    "id": 25,
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "genre": "Historical Fiction",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/29/A_Thousand_Splendid_Suns.jpg"
+  },
+  {
+    "id": 26,
+    "title": "The Shiva Trilogy: The Immortals of Meluha",
+    "author": "Amish Tripathi",
+    "genre": "Mythological Fiction",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/60/Immortals_of_Meluha.jpg"
+  },
+  {
+    "id": 27,
+    "title": "The Palace of Illusions",
+    "author": "Chitra Banerjee Divakaruni",
+    "genre": "Mythological Fiction",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/47/The_Palace_of_Illusions.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Freedom at Midnight",
+    "author": "Larry Collins and Dominique Lapierre",
+    "genre": "History, Politics",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/57/Freedom_at_Midnight.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Train to Pakistan",
+    "author": "Khushwant Singh",
+    "genre": "Historical Fiction",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6c/Train_to_Pakistan.jpg"
+  },
+  {
+    "id": 30,
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "genre": "Fiction, Social Commentary",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/70/The_God_of_Small_Things.jpg"
+  }
+]

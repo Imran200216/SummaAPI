@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "realName": "Virat Kohli",
+    "skills": ["Right-hand Bat", "Captaincy", "Cover Drive"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/14/Virat_Kohli.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "realName": "Rohit Gurunath Sharma",
+    "skills": ["Right-hand Bat", "Pull Shot", "Captaincy"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Rohit_Sharma_2023.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Jasprit Bumrah",
+    "realName": "Jasprit Jasbirsingh Bumrah",
+    "skills": ["Fast Bowling", "Yorkers", "Death Overs"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/66/Jasprit_Bumrah_2020.jpg"
+  },
+  {
+    "id": 4,
+    "name": "MS Dhoni",
+    "realName": "Mahendra Singh Dhoni",
+    "skills": ["Wicketkeeping", "Helicopter Shot", "Captain Cool"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9e/MS_Dhoni.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hardik Pandya",
+    "realName": "Hardik Himanshu Pandya",
+    "skills": ["All-rounder", "Finisher", "Right-arm Fast Medium"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hardik_Pandya_2021.jpg"
+  },
+  {
+    "id": 6,
+    "name": "KL Rahul",
+    "realName": "Kannur Lokesh Rahul",
+    "skills": ["Right-hand Bat", "Wicketkeeping", "Opening"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2d/KL_Rahul.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ravindra Jadeja",
+    "realName": "Ravindrasinh Anirudhsinh Jadeja",
+    "skills": ["Left-arm Spin", "All-rounder", "Fielding"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ravindra_Jadeja.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Shubman Gill",
+    "realName": "Shubman Gill",
+    "skills": ["Right-hand Bat", "Timing", "Opening"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Shubman_Gill.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Rishabh Pant",
+    "realName": "Rishabh Rajendra Pant",
+    "skills": ["Left-hand Bat", "Aggressive Hitting", "Wicketkeeping"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rishabh_Pant.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Yuzvendra Chahal",
+    "realName": "Yuzvendra Singh Chahal",
+    "skills": ["Leg Spin", "Chess Tactics", "Control"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Yuzvendra_Chahal.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mohammed Shami",
+    "realName": "Mohammed Shami Ahmed",
+    "skills": ["Fast Bowling", "Reverse Swing", "Seam Movement"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Mohammed_Shami.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Suryakumar Yadav",
+    "realName": "Suryakumar Ashok Yadav",
+    "skills": ["360-Degree Hitting", "T20 Specialist", "Right-hand Bat"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Suryakumar_Yadav.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Axar Patel",
+    "realName": "Axar Rajeshbhai Patel",
+    "skills": ["Left-arm Spin", "Lower-order Hitting", "All-rounder"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Axar_Patel.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Ishan Kishan",
+    "realName": "Ishan Pranav Kumar Pandey Kishan",
+    "skills": ["Wicketkeeping", "Left-hand Bat", "Aggressive Opener"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Ishan_Kishan.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Washington Sundar",
+    "realName": "Washington Sundar",
+    "skills": ["Off Spin", "All-rounder", "Left-hand Bat"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/14/Washington_Sundar.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Kuldeep Yadav",
+    "realName": "Kuldeep Yadav",
+    "skills": ["Chinaman Bowling", "Spin Control", "Left-arm Unorthodox"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Kuldeep_Yadav.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Prithvi Shaw",
+    "realName": "Prithvi Pankaj Shaw",
+    "skills": ["Right-hand Bat", "Aggressive Start", "Opening"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Prithvi_Shaw.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Umesh Yadav",
+    "realName": "Umesh Kumar Tilak Yadav",
+    "skills": ["Right-arm Fast", "Reverse Swing", "First-Change Bowler"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Umesh_Yadav.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Shardul Thakur",
+    "realName": "Shardul Narendra Thakur",
+    "skills": ["Medium Fast", "Lower-order Hitter", "Golden Arm"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/60/Shardul_Thakur.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Deepak Chahar",
+    "realName": "Deepak Lokendrasingh Chahar",
+    "skills": ["Swing Bowling", "Right-arm Medium", "Powerplay Specialist"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Deepak_Chahar.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Sanju Samson",
+    "realName": "Sanju Viswanath Samson",
+    "skills": ["Right-hand Bat", "Wicketkeeping", "Elegant Timing"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sanju_Samson.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Ruturaj Gaikwad",
+    "realName": "Ruturaj Dashrat Gaikwad",
+    "skills": ["Right-hand Bat", "Timing", "Top-order Batsman"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ruturaj_Gaikwad.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Arshdeep Singh",
+    "realName": "Arshdeep Singh",
+    "skills": ["Left-arm Fast", "Death Overs", "Swing Bowling"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Arshdeep_Singh_2022.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Tilak Varma",
+    "realName": "Namboori Thakur Tilak Varma",
+    "skills": ["Left-hand Bat", "Middle-order Stability", "Aggressive Play"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://static.toiimg.com/thumb/msid-93352074,width-400,resizemode-4/93352074.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Shreyas Iyer",
+    "realName": "Shreyas Santosh Iyer",
+    "skills": ["Right-hand Bat", "Middle-order Anchor", "Spin Hitter"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Shreyas_Iyer.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Krishna Gowtham",
+    "realName": "Krishnappa Gowtham",
+    "skills": ["Off Spin", "Lower-order Hitter", "All-rounder"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://static.toiimg.com/photo/msid-80516450/80516450.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Navdeep Saini",
+    "realName": "Navdeep Amarjeet Saini",
+    "skills": ["Right-arm Fast", "Pace", "Bounce"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Navdeep_Saini.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Rahul Chahar",
+    "realName": "Rahul Desraj Chahar",
+    "skills": ["Leg Spin", "T20 Specialist", "Quick Through the Air"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rahul_Chahar.jpg"
+  },
+  {
+    "id": 29,
+    "name": "T Natarajan",
+    "realName": "Thangarasu Natarajan",
+    "skills": ["Left-arm Fast", "Yorkers", "Death Overs"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/65/T_Natarajan.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Varun Chakravarthy",
+    "realName": "Varun Chakravarthy Vinod",
+    "skills": ["Mystery Spin", "Right-arm Leg Break", "T20 Specialist"],
+    "team": "India National Cricket Team",
+    "universe": "International Cricket",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Varun_Chakravarthy.jpg"
+  }
+]
